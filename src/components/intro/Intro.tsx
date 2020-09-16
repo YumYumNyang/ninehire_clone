@@ -45,7 +45,7 @@ function Intro (){
             </SubTitle>
             <ButtonDiv>
                 <BlueButton>30일 무료사용</BlueButton>
-                <WhiteButton>소개서 다운받기</WhiteButton>
+                <WhiteButton >소개서 다운받기</WhiteButton>
             </ButtonDiv>
             <Info>
             나인하이어는 채용의 시작부터 끝까지 <br></br>

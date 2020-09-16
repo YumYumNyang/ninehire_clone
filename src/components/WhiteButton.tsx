@@ -8,9 +8,9 @@ const WhiteButton = styled(Button)`
     color : #1968fc;
     font-weight:bold;
     width : 40%;
-
     height:90%;
-
+    min-width: 13rem;
+    min-height: 4rem;
 `
 /*function WhiteButton ({children, width, height}){
     return(

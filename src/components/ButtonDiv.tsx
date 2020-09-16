@@ -4,7 +4,7 @@ import styled from 'styled-components';
 const ButtonDiv = styled.div`
     margin-top : 5vh;
     display: flex;
-    width: 35vw;
+    width: 30vw;
     justify-content:space-between;
     height: 10vh;
 
